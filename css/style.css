@@ -61,6 +61,7 @@
     align-items: center;
     flex-direction: column;
     box-shadow: 8px 8px 15px 13px silver;
+    border-radius: 12px;
 
 
 }
@@ -103,3 +104,6 @@
     color: white;
     border-radius: 6px;
  }
+ /* .material-symbols-rounded{
+    font-size: 21px;
+ } */
